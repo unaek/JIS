@@ -28,7 +28,7 @@ body{
 
 
 .inicio{
-    margin-top: 5%;
+    margin-top: 3%;
     text-align: center;
     font-size: 500%;
     margin-bottom: 1%;
@@ -121,4 +121,13 @@ li a, p a{
 
 li a:hover, p a:hover{
     color: rgb(110, 163, 110);
+}
+
+.carousel-item img{
+    height: 70%;
+    width: 60%;
+}
+
+.cestos{
+    margin-top: 3%;
 }
